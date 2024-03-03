@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.a{
+    background:no-repeat;
+}
+.b{
+    position: relative;
+    margin-top: -65%;
+}
+.c{
+    position: relative;
+    margin-left: 30%;
+    margin-top: -5%;
+}
+
+.g{
+    position: relative;
+  margin-left: 5%;
+    margin-top: 7%;
+}
+.e{
+    position: relative;
+    margin-left: 37%;
+    margin-top: -3%;
+    
+}
+.r{
+    position: relative;
+    margin-top:2%;
+}
+.s{
+    position: relative;
+    margin-left: -10%;
+    margin-top: 10%;
+}
+.z{
+    position: relative;
+    margin-top:5% ;
+}
